@@ -6,6 +6,33 @@ The Employee Tracker application is a command-line application that allows users
 The purpose of this project is to build a command-line application from scratch that allows the user to add departments, roles, and employees. View all departments, roles, salaries, and employees, view employees by manager and update employee roles.
 
 ## Usage
+1. Clone to your computer using SSH from GitHub:
+```
+git clone git@github.com:angiem07/Employee-Tracker.git
+```
+2. Install node dependencies by running:
+```
+npm install
+```
+3. Configure your MySQL user/password in the config/connection.js file
+4. Add an .env file with the following items and populute with your credentials
+```
+DB_NAME='DB_NAME='employeetracker_db'
+DB_USER=''
+DB_PASSWORD=''
+```
+5. To build the database and tables and then seed/populate the tables run:
+```
+mysql -u root -p
+SOURCE db/schema.sql
+SOURCE db/seeds.sql
+```
+
+6. To start the application run in the command line:
+```
+npm start
+```
+7. You'll then be able to access the menu and select the option you want to view, add, or update. \
 
 See video walkthrough:
 
