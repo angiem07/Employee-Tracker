@@ -43,8 +43,8 @@ https://github.com/angiem07/Employee-Tracker/assets/143362421/86892999-e2bf-497e
 
 ## Credits
 References:\
-https://www.w3schools.com/sql/sql_in.asp\
-https://stackoverflow.com/questions/4587069/how-to-use-in-clause-in-mysql\
-https://github.com/jscobie/EmployeeTracker/blob/main/README.md\
-https://github.com/Danster4/employee-tracker/blob/main/README.md\
+https://www.w3schools.com/sql/sql_in.asp \
+https://stackoverflow.com/questions/4587069/how-to-use-in-clause-in-mysql \
+https://github.com/jscobie/EmployeeTracker/blob/main/README.md \
+https://github.com/Danster4/employee-tracker/blob/main/README.md \
 https://github.com/htariku/SQL-Employee-Tracker/blob/main/README.md
