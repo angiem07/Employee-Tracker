@@ -34,7 +34,12 @@ npm start
 ```
 7. You'll then be able to access the menu and select the option you want to view, add, or update. \
 
-See video walkthrough:
+See video walkthrough:\
+
+
+https://github.com/angiem07/Employee-Tracker/assets/143362421/86892999-e2bf-497e-a209-2a28dd904ccf
+
+
 
 ## Credits
 References:\
